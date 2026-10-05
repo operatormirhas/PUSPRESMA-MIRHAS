@@ -1,0 +1,8 @@
+{
+  "name": "PUSPRESMA - Pusat Prestasi Madrasah",
+  "description": "Aplikasi pendataan prestasi siswa madrasah terintegrasi dengan input data lengkap, dashboard rekapitulasi real-time, pencarian cepat tahun ajaran, dan cetak arsip laporan PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
